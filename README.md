@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a rep for the The Data Scientist’s Toolbox- Jeff Leek Coursera Class
+This is a repo for the The Data Scientist’s Toolbox- Jeff Leek Coursera Class
